@@ -1,5 +1,7 @@
 /*
-IN PLACE ALGORITHM | Source: https://en.wikipedia.org/wiki/In-place_algorithm
+Remove Duplicates from Sorted Array
+===================================
+In-place algorithm | Source: https://en.wikipedia.org/wiki/In-place_algorithm
 
 Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such 
 that each unique element appears only once. The relative order of the elements should be kept 
